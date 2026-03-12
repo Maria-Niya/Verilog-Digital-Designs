@@ -14,3 +14,6 @@ using the following methodologies:
 3)Structural using Half Adder
 4)Using a 4:1 Mux
 5)Using a 3:8 Decoder
+
+Verification is done using a simple testbench of all possible input combinations
+The outputs are monitored via the Vivado Simulation Waveform and confirmed 100% functional match with the theoretical truth table.
