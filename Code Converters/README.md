@@ -10,3 +10,4 @@ This file contains:
    
 4) BCD to Excess-3 Code Converter
      Converts Binary Coded Decimal to Excess-3 by adding 3 to the BCD value.
+5) Basic Testbenchs and Self-Checking Testbenches to confirm the functionality of the code converters
