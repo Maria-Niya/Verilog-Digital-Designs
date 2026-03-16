@@ -1,1 +1,1 @@
-
+This file contains the design and implementation of two combinational priority encoders: a 4-to-2 and an 8-to-3. Both designs feature an active-high Valid Bit (V) to indicate when at least one input is active.
