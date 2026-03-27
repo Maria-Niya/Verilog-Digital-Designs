@@ -4,3 +4,4 @@ The magnitude comparator takes two 2-bit inputs and produces three distinct outp
 Equal (eq): High if A = B
 A Greater (a_g): High if A > B
 B Greater (b_g): High if B > A
+The functional verification is done using a simple testbench and the vivado waveform.
