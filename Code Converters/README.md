@@ -1,3 +1,4 @@
+Code converters project:
 This file contains:
 1) Binary to Gray Code converter in dataflow style(1) and structural style(2)
      Gray code is a unit distance code where only one bit changes at a time
