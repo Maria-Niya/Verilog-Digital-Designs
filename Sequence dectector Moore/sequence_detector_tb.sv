@@ -23,7 +23,7 @@
 module sequence_detector_tb;
 reg a,reset,clk;
 wire y;
-overlapping_mealy_1101 dut(a,reset,clk,y);
+overlapping_moore_1101 dut(a,reset,clk,y);
 always#5 clk=~clk;
 initial
 begin
