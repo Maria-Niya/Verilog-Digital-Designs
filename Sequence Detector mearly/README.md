@@ -1,1 +1,6 @@
-
+A sequence detector is a sequential state machine that takes an input string of bits and generates an output 1 whenever the target sequence has been detected. In a Mealy machine, output depends on the present state and the external input.
+Sequence detector is of two types: 
+ 1)Overlapping
+ 2)Non-Overlapping
+In an overlapping sequence detector, the last bit of one sequence becomes the first bit of the next sequence. However, in a non-overlapping sequence detector, the last bit of one sequence does not become the first bit of the next sequence.
+The code is a Mealy Sequence detector and testbench code for thee sequence 1101.
