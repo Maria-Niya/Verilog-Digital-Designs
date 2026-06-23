@@ -1,1 +1,1 @@
-This file contains half and full subtractor sourse code.
+This file contains half and full subtractor source code.
