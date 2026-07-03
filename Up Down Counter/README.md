@@ -1,5 +1,5 @@
 
-4-Bit Up/Down Counter (Verilog)
+4-Bit Up/Down Counter (SystemVerilog)
 
 Overview
 
